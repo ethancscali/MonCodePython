@@ -1,4 +1,4 @@
-# MonCodePython 🐍
+# MonCodePython 👨‍💻
 
 Ce dépôt rassemble les projets et exercices que je réalise en apprenant le développement Python **par la pratique**.
 
