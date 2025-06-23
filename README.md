@@ -12,9 +12,9 @@ Je ne cherche pas à enseigner, mais à **progresser** chaque jour en testant, e
 
 ## 📁 Contenu :
 - `test.py` : premier test de push vers GitHub
-- `quiz.py` : quiz interactif en terminal (à venir)
-- `fizzbuzz.py` : boucle + conditions (à venir)
-- `euler1.py` : logique et somme de multiples (à venir)
+- `quiz.py` : quiz interactif en terminal 
+- `fizzbuzz.py` : boucle + conditions 
+- `euler1.py` : logique et somme de multiples 
 
 ## 🛠️ Objectif :
 Construire une base solide en Python, comprendre comment organiser mon code, et me préparer à créer des choses plus grandes (web, IA, automation...).
